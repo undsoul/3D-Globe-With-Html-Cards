@@ -7,7 +7,7 @@ https://github.com/user-attachments/assets/7e836660-c733-4246-a86d-e9b6e7ef3ab5
 ## Features
 
 - **Interactive 3D Globe**: Fully rotatable, zoomable Earth visualization with customizable colors
-- **Dynamic Ambassador Cards**: Display rich information cards for each location that can be dragged and positioned
+- **Dynamic Cards**: Display rich information cards for each location that can be dragged and positioned
 - **Column Patching System**: Overcomes the standard 5-column limitation in Qlik Sense, supporting up to 20 dimensions
 - **Customizable HTML Templates**: Create your own card designs with a built-in HTML editor and templating system
 - **Smart Overlap Resolution**: Intelligent algorithm to prevent card overlapping with configurable density
@@ -30,7 +30,7 @@ https://github.com/user-attachments/assets/7e836660-c733-4246-a86d-e9b6e7ef3ab5
 2. Configure the dimensions (minimum 3 required):
    - First dimension: Latitude values (numeric)
    - Second dimension: Longitude values (numeric)
-   - Third dimension: Name or title for the ambassador cards
+   - Third dimension: Name or title for the   cards
    - Additional dimensions (optional): Any further details you want to display on cards
 
 3. Add measures (optional):
@@ -61,7 +61,7 @@ For advanced customization, you can create your own HTML templates:
 1. Enable "Use Custom HTML Template" in the HTML Template Settings
 2. Click "Edit HTML Template" to open the visual editor
 3. Design your card using the available template variables:
-   - `{{name}}` - Ambassador name
+   - `{{name}}` -   name
    - `{{initial}}` - First initial
    - `{{fields.dimension_name}}` - Access any dimension by name
    - `{{fields.measure_name}}` - Access any measure by name

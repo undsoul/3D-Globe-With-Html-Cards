@@ -1,0 +1,12 @@
+{
+    "name": "Globe Viz w/Html-Cards",
+    "description": "Interactive 3D globe visualization with Html-cards",
+    "type": "visualization",
+    "version": "1.0.0",
+    "author": "MuchachoAI",
+    "icon": "globe",
+    "preview": "globe-preview.png",
+    "dependencies": {
+        "qlik-sense": ">=3.0.x"
+    }
+}

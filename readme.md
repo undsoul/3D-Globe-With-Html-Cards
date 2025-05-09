@@ -2,7 +2,7 @@
 
 A powerful 3D globe visualization for Qlik Sense with interactive, customizable ambassador cards. This extension transforms geographical data into an engaging interactive experience, perfect for visualizing global networks, international presence, or worldwide metrics.
 
-![Qlik Globe HTML Card Extension](https://place-hold.it/800x400&text=Qlik%20Globe%20HTML%20Card%20Extension&fontsize=23)
+
 
 ## Features
 
@@ -17,8 +17,8 @@ A powerful 3D globe visualization for Qlik Sense with interactive, customizable 
 
 ## Installation
 
-1. Download the latest release ZIP file from the [releases page](https://github.com/yourusername/qlik-globe-extension/releases)
-2. In your Qlik Sense Management Console, navigate to **Extensions**
+1. Download the latest release ZIP file 
+2. In your Qlik Sense Management Console / Qlik cloud - admin/extensions , navigate to **Extensions**
 3. Click **Import** and select the downloaded ZIP file
 4. The extension will appear as "Qlik Globe HTML Card" in your visualization options
 
